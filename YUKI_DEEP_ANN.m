@@ -1,4 +1,7 @@
-% 
+% YUKI-ANN  
+% https://doi.org/10.1007/978-3-031-24041-6_18
+% https://doi.org/10.1016/j.compstruct.2022.116272 
+
 
 %% load the data and setup the network
 clc
