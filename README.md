@@ -12,3 +12,6 @@ After generating new solutions, their weights are updated in the neural network,
 
 The algorithm continues until either the maximum number of iterations is reached or the error is below a predefined tolerance level. Finally, the trained neural network is used to make predictions on a new set of input data, and the training results are plotted, including the mean squared error and the regression results.
 
+**Deep Neural Network and YUKI Algorithm for Inner Damage Characterization Based on Elastic Boundary Displacement**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_18" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_18 </a>
+
+**Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
